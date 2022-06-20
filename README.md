@@ -10,13 +10,12 @@ The module contains the following packages:
 
 <a name="links"></a> Quick links:
 
-* [Configuration](https://www.pipservices.org/recipies/configuration)
-* [Logging](https://www.pipservices.org/recipies/active-logic)
+* [Configuration](http://docs.pipservices.org/toolkit/getting_started/configurations/)
 * [Virtual memory configuration](https://www.elastic.co/guide/en/elasticsearch/reference/current/vm-max-map-count.html)
 * [API Reference](https://pip-services3-nodex.github.io/pip-services3-elasticsearch-nodex/globals.html)
 * [Change Log](CHANGELOG.md)
-* [Get Help](https://www.pipservices.org/community/help)
-* [Contribute](https://www.pipservices.org/community/contribute)
+* [Get Help](http://docs.pipservices.org/get_help/)
+* [Contribute](http://docs.pipservices.org/contribute/)
 
 ## Use
 
